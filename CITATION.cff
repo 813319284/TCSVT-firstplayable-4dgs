@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the manuscript below."
+title: "First-Playable Progressive Delivery of 4D Gaussian Scenes from Real-World Video"
+authors:
+  - family-names: Yang
+    given-names: Chen
+    orcid: "https://orcid.org/0009-0002-9911-3808"
+  - family-names: Chen
+    given-names: Chunyi
+    orcid: "https://orcid.org/0000-0003-2228-3083"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-19"
+keywords:
+  - 4D Gaussian splatting
+  - progressive coding
+  - progressive delivery
+  - rate-distortion
+  - spatial intelligence

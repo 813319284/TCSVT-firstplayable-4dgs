@@ -1,0 +1,7 @@
+torch==2.7.*
+numpy
+scipy
+pandas
+matplotlib
+Pillow
+lpips

@@ -1,0 +1,13 @@
+{
+  "title": "Reproduction package: First-Playable Progressive Delivery of 4D Gaussian Scenes from Real-World Video",
+  "upload_type": "software",
+  "description": "Code, raw per-run results and LaTeX source behind the manuscript. Every number in the paper is re-derived from results/ by scripts/check_numbers.py and scripts/audit_numbers.py.",
+  "creators": [
+    {"name": "Yang, Chen", "orcid": "0009-0002-9911-3808"},
+    {"name": "Chen, Chunyi", "orcid": "0000-0003-2228-3083"}
+  ],
+  "license": "MIT",
+  "keywords": ["4D Gaussian splatting", "progressive coding", "progressive delivery", "rate-distortion", "spatial intelligence"],
+  "related_identifiers": [],
+  "access_right": "open"
+}
