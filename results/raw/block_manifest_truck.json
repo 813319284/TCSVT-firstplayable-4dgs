@@ -1,0 +1,306 @@
+{
+ "scene": "truck",
+ "split_mode": "timestamp_block",
+ "effective_calib_camera": 1,
+ "eval_cameras": [
+  1,
+  2,
+  3
+ ],
+ "calib_parity": "not_applicable (timestamp split)",
+ "eval_parity": "not_applicable (timestamp split)",
+ "calib_time_ids": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "eval_time_ids": [
+  136,
+  142,
+  148,
+  154,
+  160,
+  166,
+  172,
+  178,
+  184,
+  190
+ ],
+ "calib_frame_manifest": [
+  {
+   "index": 0,
+   "frame_id": 0,
+   "camera": 1,
+   "time_id": 0
+  },
+  {
+   "index": 1,
+   "frame_id": 1,
+   "camera": 1,
+   "time_id": 1
+  },
+  {
+   "index": 2,
+   "frame_id": 2,
+   "camera": 1,
+   "time_id": 2
+  },
+  {
+   "index": 3,
+   "frame_id": 3,
+   "camera": 1,
+   "time_id": 3
+  },
+  {
+   "index": 4,
+   "frame_id": 4,
+   "camera": 1,
+   "time_id": 4
+  },
+  {
+   "index": 5,
+   "frame_id": 5,
+   "camera": 1,
+   "time_id": 5
+  },
+  {
+   "index": 6,
+   "frame_id": 6,
+   "camera": 1,
+   "time_id": 6
+  },
+  {
+   "index": 7,
+   "frame_id": 7,
+   "camera": 1,
+   "time_id": 7
+  },
+  {
+   "index": 8,
+   "frame_id": 8,
+   "camera": 1,
+   "time_id": 8
+  },
+  {
+   "index": 9,
+   "frame_id": 9,
+   "camera": 1,
+   "time_id": 9
+  },
+  {
+   "index": 10,
+   "frame_id": 10,
+   "camera": 1,
+   "time_id": 10
+  },
+  {
+   "index": 11,
+   "frame_id": 11,
+   "camera": 1,
+   "time_id": 11
+  }
+ ],
+ "eval_frame_manifest": [
+  {
+   "index": 136,
+   "frame_id": 136,
+   "camera": 1,
+   "time_id": 136
+  },
+  {
+   "index": 142,
+   "frame_id": 142,
+   "camera": 1,
+   "time_id": 142
+  },
+  {
+   "index": 148,
+   "frame_id": 148,
+   "camera": 1,
+   "time_id": 148
+  },
+  {
+   "index": 154,
+   "frame_id": 154,
+   "camera": 1,
+   "time_id": 154
+  },
+  {
+   "index": 160,
+   "frame_id": 160,
+   "camera": 1,
+   "time_id": 160
+  },
+  {
+   "index": 166,
+   "frame_id": 166,
+   "camera": 1,
+   "time_id": 166
+  },
+  {
+   "index": 172,
+   "frame_id": 172,
+   "camera": 1,
+   "time_id": 172
+  },
+  {
+   "index": 178,
+   "frame_id": 178,
+   "camera": 1,
+   "time_id": 178
+  },
+  {
+   "index": 184,
+   "frame_id": 184,
+   "camera": 1,
+   "time_id": 184
+  },
+  {
+   "index": 190,
+   "frame_id": 190,
+   "camera": 1,
+   "time_id": 190
+  },
+  {
+   "index": 340,
+   "frame_id": 136,
+   "camera": 2,
+   "time_id": 136
+  },
+  {
+   "index": 346,
+   "frame_id": 142,
+   "camera": 2,
+   "time_id": 142
+  },
+  {
+   "index": 352,
+   "frame_id": 148,
+   "camera": 2,
+   "time_id": 148
+  },
+  {
+   "index": 358,
+   "frame_id": 154,
+   "camera": 2,
+   "time_id": 154
+  },
+  {
+   "index": 364,
+   "frame_id": 160,
+   "camera": 2,
+   "time_id": 160
+  },
+  {
+   "index": 370,
+   "frame_id": 166,
+   "camera": 2,
+   "time_id": 166
+  },
+  {
+   "index": 376,
+   "frame_id": 172,
+   "camera": 2,
+   "time_id": 172
+  },
+  {
+   "index": 382,
+   "frame_id": 178,
+   "camera": 2,
+   "time_id": 178
+  },
+  {
+   "index": 388,
+   "frame_id": 184,
+   "camera": 2,
+   "time_id": 184
+  },
+  {
+   "index": 394,
+   "frame_id": 190,
+   "camera": 2,
+   "time_id": 190
+  },
+  {
+   "index": 544,
+   "frame_id": 136,
+   "camera": 3,
+   "time_id": 136
+  },
+  {
+   "index": 550,
+   "frame_id": 142,
+   "camera": 3,
+   "time_id": 142
+  },
+  {
+   "index": 556,
+   "frame_id": 148,
+   "camera": 3,
+   "time_id": 148
+  },
+  {
+   "index": 562,
+   "frame_id": 154,
+   "camera": 3,
+   "time_id": 154
+  },
+  {
+   "index": 568,
+   "frame_id": 160,
+   "camera": 3,
+   "time_id": 160
+  },
+  {
+   "index": 574,
+   "frame_id": 166,
+   "camera": 3,
+   "time_id": 166
+  },
+  {
+   "index": 580,
+   "frame_id": 172,
+   "camera": 3,
+   "time_id": 172
+  },
+  {
+   "index": 586,
+   "frame_id": 178,
+   "camera": 3,
+   "time_id": 178
+  },
+  {
+   "index": 592,
+   "frame_id": 184,
+   "camera": 3,
+   "time_id": 184
+  },
+  {
+   "index": 598,
+   "frame_id": 190,
+   "camera": 3,
+   "time_id": 190
+  }
+ ],
+ "n_calib": 12,
+ "n_eval": 30,
+ "per_camera_eval_counts": {
+  "1": 10,
+  "2": 10,
+  "3": 10
+ },
+ "assertions": {
+  "time_ids_disjoint": true,
+  "train_camera_0_absent": true,
+  "equal_frames_per_eval_camera": true
+ }
+}

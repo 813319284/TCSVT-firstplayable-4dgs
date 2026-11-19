@@ -1,0 +1,10 @@
+{
+ "scene": "backpack",
+ "camera": 0,
+ "n_frames": 7,
+ "prefix_MB": 8.11,
+ "pearson_prefix": 0.5289,
+ "spearman_prefix": 0.5344,
+ "pearson_ref": 0.7091,
+ "spearman_ref": 0.7119
+}

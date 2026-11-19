@@ -1,0 +1,64 @@
+{
+ "ref_full": 21.2606,
+ "ref_fg": 19.8699,
+ "calib_ids": [
+  0,
+  2,
+  4,
+  6,
+  8,
+  10,
+  12,
+  14,
+  16,
+  18,
+  20,
+  22
+ ],
+ "groups": {
+  "fg.means": {
+   "loss_full": 3.8842,
+   "loss_fg": 4.0321
+  },
+  "fg.scales": {
+   "loss_full": 3.0626,
+   "loss_fg": 3.4497
+  },
+  "fg.colors": {
+   "loss_full": 1.8649,
+   "loss_fg": 2.0323
+  },
+  "fg.quats": {
+   "loss_full": 2.7982,
+   "loss_fg": 2.7806
+  },
+  "fg.opacities": {
+   "loss_full": -0.0606,
+   "loss_fg": -0.0589
+  },
+  "fg.motion_coefs": {
+   "loss_full": 1.4267,
+   "loss_fg": 1.5262
+  },
+  "bg.means": {
+   "loss_full": 8.0836,
+   "loss_fg": 1.0527
+  },
+  "bg.scales": {
+   "loss_full": 0.5317,
+   "loss_fg": 0.0566
+  },
+  "bg.colors": {
+   "loss_full": 2.8493,
+   "loss_fg": 0.0834
+  },
+  "bg.quats": {
+   "loss_full": 0.0421,
+   "loss_fg": 0.0219
+  },
+  "bg.opacities": {
+   "loss_full": 0.0532,
+   "loss_fg": 0.006
+  }
+ }
+}

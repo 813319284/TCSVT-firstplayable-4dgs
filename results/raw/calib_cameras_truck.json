@@ -1,0 +1,231 @@
+{
+ "scene": "truck",
+ "calib": [
+  {
+   "frame_id": 0,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 2,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 4,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 6,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 8,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 10,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 12,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 14,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 16,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 18,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 20,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 22,
+   "camera": 1,
+   "source": "id-range inference"
+  }
+ ],
+ "eval": [
+  {
+   "frame_id": 1,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 3,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 5,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 7,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 9,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 11,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 13,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 15,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 17,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 19,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 205,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 207,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 209,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 211,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 213,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 215,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 217,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 219,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 221,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 223,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 409,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 411,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 413,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 415,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 417,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 419,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 421,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 423,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 425,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 427,
+   "camera": 3,
+   "source": "per_frame record"
+  }
+ ],
+ "counts": {
+  "n_calib": 12,
+  "n_eval": 30,
+  "n_eval_cameras_unseen": 20,
+  "cameras_calib": [
+   1
+  ],
+  "cameras_eval": [
+   1,
+   2,
+   3
+  ],
+  "monocular": false
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "scene": "Jumping",
+ "ref_psnr": 17.252,
+ "ref_fg": 11.4772,
+ "tol": 0.5,
+ "frames": 32,
+ "per_frame": [
+  {
+   "frame_id": 64,
+   "camera": 1,
+   "full": 18.0105,
+   "fg": 11.7849
+  },
+  {
+   "frame_id": 67,
+   "camera": 1,
+   "full": 17.7718,
+   "fg": 11.5612
+  },
+  {
+   "frame_id": 70,
+   "camera": 1,
+   "full": 17.6347,
+   "fg": 11.9873
+  },
+  {
+   "frame_id": 73,
+   "camera": 1,
+   "full": 16.9786,
+   "fg": 11.9077
+  },
+  {
+   "frame_id": 76,
+   "camera": 1,
+   "full": 16.7425,
+   "fg": 11.5825
+  },
+  {
+   "frame_id": 79,
+   "camera": 1,
+   "full": 16.8327,
+   "fg": 11.3325
+  },
+  {
+   "frame_id": 82,
+   "camera": 1,
+   "full": 17.1216,
+   "fg": 11.1092
+  },
+  {
+   "frame_id": 85,
+   "camera": 1,
+   "full": 17.2744,
+   "fg": 11.2472
+  },
+  {
+   "frame_id": 88,
+   "camera": 1,
+   "full": 16.9313,
+   "fg": 10.9995
+  },
+  {
+   "frame_id": 91,
+   "camera": 1,
+   "full": 16.8292,
+   "fg": 10.9459
+  },
+  {
+   "frame_id": 160,
+   "camera": 2,
+   "full": 18.4161,
+   "fg": 12.5849
+  },
+  {
+   "frame_id": 163,
+   "camera": 2,
+   "full": 18.3561,
+   "fg": 12.2602
+  },
+  {
+   "frame_id": 166,
+   "camera": 2,
+   "full": 18.1743,
+   "fg": 12.4369
+  },
+  {
+   "frame_id": 169,
+   "camera": 2,
+   "full": 17.6528,
+   "fg": 12.3465
+  },
+  {
+   "frame_id": 172,
+   "camera": 2,
+   "full": 17.7359,
+   "fg": 12.1687
+  },
+  {
+   "frame_id": 175,
+   "camera": 2,
+   "full": 17.8642,
+   "fg": 11.8176
+  },
+  {
+   "frame_id": 178,
+   "camera": 2,
+   "full": 18.3074,
+   "fg": 11.8825
+  },
+  {
+   "frame_id": 181,
+   "camera": 2,
+   "full": 18.202,
+   "fg": 12.1354
+  },
+  {
+   "frame_id": 184,
+   "camera": 2,
+   "full": 18.31,
+   "fg": 12.266
+  },
+  {
+   "frame_id": 187,
+   "camera": 2,
+   "full": 18.2103,
+   "fg": 12.2825
+  },
+  {
+   "frame_id": 256,
+   "camera": 3,
+   "full": 16.6805,
+   "fg": 11.4244
+  },
+  {
+   "frame_id": 259,
+   "camera": 3,
+   "full": 16.2417,
+   "fg": 10.7388
+  },
+  {
+   "frame_id": 262,
+   "camera": 3,
+   "full": 16.1097,
+   "fg": 10.9374
+  },
+  {
+   "frame_id": 265,
+   "camera": 3,
+   "full": 15.8778,
+   "fg": 10.8548
+  },
+  {
+   "frame_id": 268,
+   "camera": 3,
+   "full": 16.4349,
+   "fg": 10.7659
+  },
+  {
+   "frame_id": 271,
+   "camera": 3,
+   "full": 16.8472,
+   "fg": 10.7822
+  },
+  {
+   "frame_id": 274,
+   "camera": 3,
+   "full": 17.0242,
+   "fg": 10.6142
+  },
+  {
+   "frame_id": 277,
+   "camera": 3,
+   "full": 16.4429,
+   "fg": 10.3473
+  },
+  {
+   "frame_id": 280,
+   "camera": 3,
+   "full": 16.328,
+   "fg": 10.4884
+  },
+  {
+   "frame_id": 283,
+   "camera": 3,
+   "full": 16.2166,
+   "fg": 10.7233
+  }
+ ]
+}

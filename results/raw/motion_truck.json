@@ -1,0 +1,10 @@
+{
+ "scene": "truck",
+ "camera": 1,
+ "n_frames": 7,
+ "prefix_MB": 3.27,
+ "pearson_prefix": 0.6294,
+ "spearman_prefix": 0.4038,
+ "pearson_ref": 0.6652,
+ "spearman_ref": 0.4089
+}

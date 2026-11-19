@@ -1,0 +1,306 @@
+{
+ "scene": "jumping",
+ "split_mode": "timestamp_block",
+ "effective_calib_camera": 1,
+ "eval_cameras": [
+  1,
+  2,
+  3
+ ],
+ "calib_parity": "not_applicable (timestamp split)",
+ "eval_parity": "not_applicable (timestamp split)",
+ "calib_time_ids": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "eval_time_ids": [
+  64,
+  67,
+  70,
+  73,
+  76,
+  79,
+  82,
+  85,
+  88,
+  91
+ ],
+ "calib_frame_manifest": [
+  {
+   "index": 0,
+   "frame_id": 0,
+   "camera": 1,
+   "time_id": 0
+  },
+  {
+   "index": 1,
+   "frame_id": 1,
+   "camera": 1,
+   "time_id": 1
+  },
+  {
+   "index": 2,
+   "frame_id": 2,
+   "camera": 1,
+   "time_id": 2
+  },
+  {
+   "index": 3,
+   "frame_id": 3,
+   "camera": 1,
+   "time_id": 3
+  },
+  {
+   "index": 4,
+   "frame_id": 4,
+   "camera": 1,
+   "time_id": 4
+  },
+  {
+   "index": 5,
+   "frame_id": 5,
+   "camera": 1,
+   "time_id": 5
+  },
+  {
+   "index": 6,
+   "frame_id": 6,
+   "camera": 1,
+   "time_id": 6
+  },
+  {
+   "index": 7,
+   "frame_id": 7,
+   "camera": 1,
+   "time_id": 7
+  },
+  {
+   "index": 8,
+   "frame_id": 8,
+   "camera": 1,
+   "time_id": 8
+  },
+  {
+   "index": 9,
+   "frame_id": 9,
+   "camera": 1,
+   "time_id": 9
+  },
+  {
+   "index": 10,
+   "frame_id": 10,
+   "camera": 1,
+   "time_id": 10
+  },
+  {
+   "index": 11,
+   "frame_id": 11,
+   "camera": 1,
+   "time_id": 11
+  }
+ ],
+ "eval_frame_manifest": [
+  {
+   "index": 64,
+   "frame_id": 64,
+   "camera": 1,
+   "time_id": 64
+  },
+  {
+   "index": 67,
+   "frame_id": 67,
+   "camera": 1,
+   "time_id": 67
+  },
+  {
+   "index": 70,
+   "frame_id": 70,
+   "camera": 1,
+   "time_id": 70
+  },
+  {
+   "index": 73,
+   "frame_id": 73,
+   "camera": 1,
+   "time_id": 73
+  },
+  {
+   "index": 76,
+   "frame_id": 76,
+   "camera": 1,
+   "time_id": 76
+  },
+  {
+   "index": 79,
+   "frame_id": 79,
+   "camera": 1,
+   "time_id": 79
+  },
+  {
+   "index": 82,
+   "frame_id": 82,
+   "camera": 1,
+   "time_id": 82
+  },
+  {
+   "index": 85,
+   "frame_id": 85,
+   "camera": 1,
+   "time_id": 85
+  },
+  {
+   "index": 88,
+   "frame_id": 88,
+   "camera": 1,
+   "time_id": 88
+  },
+  {
+   "index": 91,
+   "frame_id": 91,
+   "camera": 1,
+   "time_id": 91
+  },
+  {
+   "index": 160,
+   "frame_id": 64,
+   "camera": 2,
+   "time_id": 64
+  },
+  {
+   "index": 163,
+   "frame_id": 67,
+   "camera": 2,
+   "time_id": 67
+  },
+  {
+   "index": 166,
+   "frame_id": 70,
+   "camera": 2,
+   "time_id": 70
+  },
+  {
+   "index": 169,
+   "frame_id": 73,
+   "camera": 2,
+   "time_id": 73
+  },
+  {
+   "index": 172,
+   "frame_id": 76,
+   "camera": 2,
+   "time_id": 76
+  },
+  {
+   "index": 175,
+   "frame_id": 79,
+   "camera": 2,
+   "time_id": 79
+  },
+  {
+   "index": 178,
+   "frame_id": 82,
+   "camera": 2,
+   "time_id": 82
+  },
+  {
+   "index": 181,
+   "frame_id": 85,
+   "camera": 2,
+   "time_id": 85
+  },
+  {
+   "index": 184,
+   "frame_id": 88,
+   "camera": 2,
+   "time_id": 88
+  },
+  {
+   "index": 187,
+   "frame_id": 91,
+   "camera": 2,
+   "time_id": 91
+  },
+  {
+   "index": 256,
+   "frame_id": 64,
+   "camera": 3,
+   "time_id": 64
+  },
+  {
+   "index": 259,
+   "frame_id": 67,
+   "camera": 3,
+   "time_id": 67
+  },
+  {
+   "index": 262,
+   "frame_id": 70,
+   "camera": 3,
+   "time_id": 70
+  },
+  {
+   "index": 265,
+   "frame_id": 73,
+   "camera": 3,
+   "time_id": 73
+  },
+  {
+   "index": 268,
+   "frame_id": 76,
+   "camera": 3,
+   "time_id": 76
+  },
+  {
+   "index": 271,
+   "frame_id": 79,
+   "camera": 3,
+   "time_id": 79
+  },
+  {
+   "index": 274,
+   "frame_id": 82,
+   "camera": 3,
+   "time_id": 82
+  },
+  {
+   "index": 277,
+   "frame_id": 85,
+   "camera": 3,
+   "time_id": 85
+  },
+  {
+   "index": 280,
+   "frame_id": 88,
+   "camera": 3,
+   "time_id": 88
+  },
+  {
+   "index": 283,
+   "frame_id": 91,
+   "camera": 3,
+   "time_id": 91
+  }
+ ],
+ "n_calib": 12,
+ "n_eval": 30,
+ "per_camera_eval_counts": {
+  "1": 10,
+  "2": 10,
+  "3": 10
+ },
+ "assertions": {
+  "time_ids_disjoint": true,
+  "train_camera_0_absent": true,
+  "equal_frames_per_eval_camera": true
+ }
+}

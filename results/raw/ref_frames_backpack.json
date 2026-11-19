@@ -1,0 +1,117 @@
+{
+ "scene": "backpack",
+ "ref_psnr": 13.962,
+ "ref_fg": 12.6438,
+ "tol": 0.5,
+ "frames": 32,
+ "per_frame": [
+  {
+   "frame_id": 1,
+   "camera": 0,
+   "full": 14.6908,
+   "fg": 12.5071
+  },
+  {
+   "frame_id": 3,
+   "camera": 0,
+   "full": 13.0178,
+   "fg": 11.3511
+  },
+  {
+   "frame_id": 5,
+   "camera": 0,
+   "full": 14.1772,
+   "fg": 12.7196
+  },
+  {
+   "frame_id": 7,
+   "camera": 0,
+   "full": 14.6369,
+   "fg": 13.2512
+  },
+  {
+   "frame_id": 9,
+   "camera": 0,
+   "full": 14.1984,
+   "fg": 12.8961
+  },
+  {
+   "frame_id": 11,
+   "camera": 0,
+   "full": 14.2845,
+   "fg": 12.5987
+  },
+  {
+   "frame_id": 13,
+   "camera": 0,
+   "full": 15.6187,
+   "fg": 13.2939
+  },
+  {
+   "frame_id": 15,
+   "camera": 0,
+   "full": 14.5102,
+   "fg": 13.2639
+  },
+  {
+   "frame_id": 17,
+   "camera": 0,
+   "full": 14.3642,
+   "fg": 14.1797
+  },
+  {
+   "frame_id": 19,
+   "camera": 0,
+   "full": 13.8612,
+   "fg": 12.4769
+  },
+  {
+   "frame_id": 21,
+   "camera": 0,
+   "full": 13.4737,
+   "fg": 12.4971
+  },
+  {
+   "frame_id": 23,
+   "camera": 0,
+   "full": 12.6796,
+   "fg": 11.7462
+  },
+  {
+   "frame_id": 25,
+   "camera": 0,
+   "full": 13.2854,
+   "fg": 11.2396
+  },
+  {
+   "frame_id": 27,
+   "camera": 0,
+   "full": 13.1708,
+   "fg": 12.4185
+  },
+  {
+   "frame_id": 29,
+   "camera": 0,
+   "full": 14.5709,
+   "fg": 14.722
+  },
+  {
+   "frame_id": 31,
+   "camera": 0,
+   "full": 13.0715,
+   "fg": 12.074
+  },
+  {
+   "frame_id": 33,
+   "camera": 0,
+   "full": 13.9394,
+   "fg": 12.187
+  },
+  {
+   "frame_id": 35,
+   "camera": 0,
+   "full": 13.7657,
+   "fg": 12.1664
+  }
+ ]
+}

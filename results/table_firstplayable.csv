@@ -1,0 +1,6 @@
+scene,base_MB,uniform_MB,roundrobin_MB,oneshot_MB,mpprefix_MB,direct_MB,best_fixed_MB,best_fixed_order,save_vs_best_pct,save_vs_uniform_pct,calib_n,eval_n,codec_ok
+backpack,4.32,14.21,14.21,10.08,9.72,8.11,9.72,mpprefix,16.6,42.9,12,18,True
+sriracha,1.1,4.08,4.08,6.06,6.06,2.03,4.08,roundrobin,50.3,50.3,12,30,True
+truck,1.27,5.0,5.0,7.72,6.45,3.27,5.0,roundrobin,34.6,34.6,12,30,True
+umbrella,1.57,6.38,6.38,9.41,9.37,3.8,6.38,roundrobin,40.4,40.4,12,30,True
+jumping,1.9,8.02,8.02,11.57,11.02,4.24,8.02,roundrobin,47.1,47.1,12,30,True

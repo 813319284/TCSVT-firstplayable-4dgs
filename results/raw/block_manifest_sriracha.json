@@ -1,0 +1,259 @@
+{
+ "scene": "sriracha",
+ "split_mode": "timestamp_block",
+ "effective_calib_camera": 0,
+ "eval_cameras": [
+  0
+ ],
+ "calib_parity": "not_applicable (timestamp split)",
+ "eval_parity": "not_applicable (timestamp split)",
+ "calib_time_ids": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "eval_time_ids": [
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60
+ ],
+ "calib_frame_manifest": [
+  {
+   "index": 0,
+   "frame_id": 0,
+   "camera": 0,
+   "time_id": 0
+  },
+  {
+   "index": 1,
+   "frame_id": 5,
+   "camera": 0,
+   "time_id": 1
+  },
+  {
+   "index": 2,
+   "frame_id": 10,
+   "camera": 0,
+   "time_id": 2
+  },
+  {
+   "index": 3,
+   "frame_id": 15,
+   "camera": 0,
+   "time_id": 3
+  },
+  {
+   "index": 4,
+   "frame_id": 20,
+   "camera": 0,
+   "time_id": 4
+  },
+  {
+   "index": 5,
+   "frame_id": 25,
+   "camera": 0,
+   "time_id": 5
+  },
+  {
+   "index": 6,
+   "frame_id": 30,
+   "camera": 0,
+   "time_id": 6
+  },
+  {
+   "index": 7,
+   "frame_id": 35,
+   "camera": 0,
+   "time_id": 7
+  },
+  {
+   "index": 8,
+   "frame_id": 40,
+   "camera": 0,
+   "time_id": 8
+  },
+  {
+   "index": 9,
+   "frame_id": 45,
+   "camera": 0,
+   "time_id": 9
+  },
+  {
+   "index": 10,
+   "frame_id": 50,
+   "camera": 0,
+   "time_id": 10
+  },
+  {
+   "index": 11,
+   "frame_id": 55,
+   "camera": 0,
+   "time_id": 11
+  }
+ ],
+ "eval_frame_manifest": [
+  {
+   "index": 40,
+   "frame_id": 200,
+   "camera": 0,
+   "time_id": 40
+  },
+  {
+   "index": 41,
+   "frame_id": 205,
+   "camera": 0,
+   "time_id": 41
+  },
+  {
+   "index": 42,
+   "frame_id": 210,
+   "camera": 0,
+   "time_id": 42
+  },
+  {
+   "index": 43,
+   "frame_id": 215,
+   "camera": 0,
+   "time_id": 43
+  },
+  {
+   "index": 44,
+   "frame_id": 220,
+   "camera": 0,
+   "time_id": 44
+  },
+  {
+   "index": 45,
+   "frame_id": 225,
+   "camera": 0,
+   "time_id": 45
+  },
+  {
+   "index": 46,
+   "frame_id": 230,
+   "camera": 0,
+   "time_id": 46
+  },
+  {
+   "index": 47,
+   "frame_id": 235,
+   "camera": 0,
+   "time_id": 47
+  },
+  {
+   "index": 48,
+   "frame_id": 240,
+   "camera": 0,
+   "time_id": 48
+  },
+  {
+   "index": 49,
+   "frame_id": 245,
+   "camera": 0,
+   "time_id": 49
+  },
+  {
+   "index": 50,
+   "frame_id": 250,
+   "camera": 0,
+   "time_id": 50
+  },
+  {
+   "index": 51,
+   "frame_id": 255,
+   "camera": 0,
+   "time_id": 51
+  },
+  {
+   "index": 52,
+   "frame_id": 260,
+   "camera": 0,
+   "time_id": 52
+  },
+  {
+   "index": 53,
+   "frame_id": 265,
+   "camera": 0,
+   "time_id": 53
+  },
+  {
+   "index": 54,
+   "frame_id": 270,
+   "camera": 0,
+   "time_id": 54
+  },
+  {
+   "index": 55,
+   "frame_id": 275,
+   "camera": 0,
+   "time_id": 55
+  },
+  {
+   "index": 56,
+   "frame_id": 280,
+   "camera": 0,
+   "time_id": 56
+  },
+  {
+   "index": 57,
+   "frame_id": 285,
+   "camera": 0,
+   "time_id": 57
+  },
+  {
+   "index": 58,
+   "frame_id": 290,
+   "camera": 0,
+   "time_id": 58
+  },
+  {
+   "index": 59,
+   "frame_id": 295,
+   "camera": 0,
+   "time_id": 59
+  },
+  {
+   "index": 60,
+   "frame_id": 300,
+   "camera": 0,
+   "time_id": 60
+  }
+ ],
+ "n_calib": 12,
+ "n_eval": 21,
+ "per_camera_eval_counts": {
+  "0": 21
+ },
+ "assertions": {
+  "time_ids_disjoint": true,
+  "train_camera_0_absent": true,
+  "equal_frames_per_eval_camera": true
+ }
+}

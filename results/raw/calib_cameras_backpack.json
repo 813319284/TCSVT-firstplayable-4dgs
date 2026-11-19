@@ -1,0 +1,169 @@
+{
+ "scene": "backpack",
+ "calib": [
+  {
+   "frame_id": 0,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 2,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 4,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 6,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 8,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 10,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 12,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 14,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 16,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 18,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 20,
+   "camera": 0,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 22,
+   "camera": 0,
+   "source": "id-range inference"
+  }
+ ],
+ "eval": [
+  {
+   "frame_id": 1,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 3,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 5,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 7,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 9,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 11,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 13,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 15,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 17,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 19,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 21,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 23,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 25,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 27,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 29,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 31,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 33,
+   "camera": 0,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 35,
+   "camera": 0,
+   "source": "per_frame record"
+  }
+ ],
+ "counts": {
+  "n_calib": 12,
+  "n_eval": 18,
+  "n_eval_cameras_unseen": 0,
+  "cameras_calib": [
+   0
+  ],
+  "cameras_eval": [
+   0
+  ],
+  "monocular": true
+ }
+}

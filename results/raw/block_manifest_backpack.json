@@ -1,0 +1,196 @@
+{
+ "scene": "backpack",
+ "split_mode": "timestamp_block",
+ "effective_calib_camera": 0,
+ "eval_cameras": [
+  0
+ ],
+ "calib_parity": "not_applicable (timestamp split)",
+ "eval_parity": "not_applicable (timestamp split)",
+ "calib_time_ids": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "eval_time_ids": [
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35
+ ],
+ "calib_frame_manifest": [
+  {
+   "index": 0,
+   "frame_id": 0,
+   "camera": 0,
+   "time_id": 0
+  },
+  {
+   "index": 1,
+   "frame_id": 5,
+   "camera": 0,
+   "time_id": 1
+  },
+  {
+   "index": 2,
+   "frame_id": 10,
+   "camera": 0,
+   "time_id": 2
+  },
+  {
+   "index": 3,
+   "frame_id": 15,
+   "camera": 0,
+   "time_id": 3
+  },
+  {
+   "index": 4,
+   "frame_id": 20,
+   "camera": 0,
+   "time_id": 4
+  },
+  {
+   "index": 5,
+   "frame_id": 25,
+   "camera": 0,
+   "time_id": 5
+  },
+  {
+   "index": 6,
+   "frame_id": 30,
+   "camera": 0,
+   "time_id": 6
+  },
+  {
+   "index": 7,
+   "frame_id": 35,
+   "camera": 0,
+   "time_id": 7
+  },
+  {
+   "index": 8,
+   "frame_id": 40,
+   "camera": 0,
+   "time_id": 8
+  },
+  {
+   "index": 9,
+   "frame_id": 45,
+   "camera": 0,
+   "time_id": 9
+  },
+  {
+   "index": 10,
+   "frame_id": 50,
+   "camera": 0,
+   "time_id": 10
+  },
+  {
+   "index": 11,
+   "frame_id": 55,
+   "camera": 0,
+   "time_id": 11
+  }
+ ],
+ "eval_frame_manifest": [
+  {
+   "index": 24,
+   "frame_id": 120,
+   "camera": 0,
+   "time_id": 24
+  },
+  {
+   "index": 25,
+   "frame_id": 125,
+   "camera": 0,
+   "time_id": 25
+  },
+  {
+   "index": 26,
+   "frame_id": 130,
+   "camera": 0,
+   "time_id": 26
+  },
+  {
+   "index": 27,
+   "frame_id": 135,
+   "camera": 0,
+   "time_id": 27
+  },
+  {
+   "index": 28,
+   "frame_id": 140,
+   "camera": 0,
+   "time_id": 28
+  },
+  {
+   "index": 29,
+   "frame_id": 145,
+   "camera": 0,
+   "time_id": 29
+  },
+  {
+   "index": 30,
+   "frame_id": 150,
+   "camera": 0,
+   "time_id": 30
+  },
+  {
+   "index": 31,
+   "frame_id": 155,
+   "camera": 0,
+   "time_id": 31
+  },
+  {
+   "index": 32,
+   "frame_id": 160,
+   "camera": 0,
+   "time_id": 32
+  },
+  {
+   "index": 33,
+   "frame_id": 165,
+   "camera": 0,
+   "time_id": 33
+  },
+  {
+   "index": 34,
+   "frame_id": 170,
+   "camera": 0,
+   "time_id": 34
+  },
+  {
+   "index": 35,
+   "frame_id": 175,
+   "camera": 0,
+   "time_id": 35
+  }
+ ],
+ "n_calib": 12,
+ "n_eval": 12,
+ "per_camera_eval_counts": {
+  "0": 12
+ },
+ "assertions": {
+  "time_ids_disjoint": true,
+  "train_camera_0_absent": true,
+  "equal_frames_per_eval_camera": true
+ }
+}

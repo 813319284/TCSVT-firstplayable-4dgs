@@ -1,0 +1,6 @@
+scene,oneshot_MB,mpprefix_MB,direct_MB,best_fixed_MB,best_fixed_order,save_vs_best_pct
+backpack,9.65,9.53,8.32,9.53,mpprefix,12.7
+sriracha,6.05,6.05,2.02,4.08,roundrobin,50.3
+truck,7.74,6.29,3.44,5.01,roundrobin,31.2
+umbrella,9.72,9.64,3.79,4.97,roundrobin,23.8
+jumping,11.52,10.98,4.22,7.98,roundrobin,47.1

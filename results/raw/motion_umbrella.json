@@ -1,0 +1,10 @@
+{
+ "scene": "umbrella",
+ "camera": 1,
+ "n_frames": 7,
+ "prefix_MB": 3.8,
+ "pearson_prefix": 0.1546,
+ "spearman_prefix": 0.4489,
+ "pearson_ref": 0.1619,
+ "spearman_ref": 0.4619
+}

@@ -1,0 +1,110 @@
+{
+ "scene": "truck",
+ "budgets": [
+  {
+   "budget_MB": 3.9,
+   "bytes": 3899544,
+   "eval_full": 26.717,
+   "eval_fg": 22.063,
+   "bits": {
+    "fg.means": 16,
+    "fg.scales": 8,
+    "fg.colors": 8,
+    "fg.quats": 6,
+    "fg.opacities": 12,
+    "fg.motion_coefs": 8,
+    "bg.means": 12,
+    "bg.scales": 8,
+    "bg.colors": 12,
+    "bg.quats": 4,
+    "bg.opacities": 4
+   }
+  },
+  {
+   "budget_MB": 5.0,
+   "bytes": 4929885,
+   "eval_full": 26.811,
+   "eval_fg": 22.261,
+   "bits": {
+    "fg.means": 16,
+    "fg.scales": 16,
+    "fg.colors": 12,
+    "fg.quats": 4,
+    "fg.opacities": 16,
+    "fg.motion_coefs": 12,
+    "bg.means": 12,
+    "bg.scales": 8,
+    "bg.colors": 12,
+    "bg.quats": 6,
+    "bg.opacities": 4
+   }
+  },
+  {
+   "budget_MB": 6.4,
+   "bytes": 6316532,
+   "eval_full": 26.905,
+   "eval_fg": 22.274,
+   "bits": {
+    "fg.means": 16,
+    "fg.scales": 16,
+    "fg.colors": 16,
+    "fg.quats": 16,
+    "fg.opacities": 16,
+    "fg.motion_coefs": 12,
+    "bg.means": 12,
+    "bg.scales": 12,
+    "bg.colors": 16,
+    "bg.quats": 8,
+    "bg.opacities": 4
+   }
+  }
+ ],
+ "fixed_bytes": 9792,
+ "calib_ids": [
+  0,
+  2,
+  4,
+  6,
+  8,
+  10,
+  12,
+  14,
+  16,
+  18,
+  20,
+  22
+ ],
+ "eval_ids": [
+  1,
+  3,
+  5,
+  7,
+  9,
+  11,
+  13,
+  15,
+  17,
+  19,
+  205,
+  207,
+  209,
+  211,
+  213,
+  215,
+  217,
+  219,
+  221,
+  223,
+  409,
+  411,
+  413,
+  415,
+  417,
+  419,
+  421,
+  423,
+  425,
+  427
+ ],
+ "search": "hill climb, single-step moves, started from base layer and from the stream state at that budget (locally optimised)"
+}

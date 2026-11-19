@@ -1,0 +1,189 @@
+{
+ "scene": "sriracha-tree",
+ "ref_psnr": 16.8183,
+ "ref_fg": 13.5179,
+ "tol": 0.5,
+ "frames": 32,
+ "per_frame": [
+  {
+   "frame_id": 1,
+   "camera": 0,
+   "full": 26.3679,
+   "fg": 22.6631
+  },
+  {
+   "frame_id": 3,
+   "camera": 0,
+   "full": 24.7323,
+   "fg": 21.8011
+  },
+  {
+   "frame_id": 5,
+   "camera": 0,
+   "full": 26.8427,
+   "fg": 22.6184
+  },
+  {
+   "frame_id": 7,
+   "camera": 0,
+   "full": 22.0424,
+   "fg": 16.2593
+  },
+  {
+   "frame_id": 9,
+   "camera": 0,
+   "full": 18.9792,
+   "fg": 14.5858
+  },
+  {
+   "frame_id": 11,
+   "camera": 0,
+   "full": 16.066,
+   "fg": 13.7343
+  },
+  {
+   "frame_id": 13,
+   "camera": 0,
+   "full": 14.5811,
+   "fg": 11.9344
+  },
+  {
+   "frame_id": 15,
+   "camera": 0,
+   "full": 13.8504,
+   "fg": 11.3262
+  },
+  {
+   "frame_id": 17,
+   "camera": 0,
+   "full": 14.3784,
+   "fg": 9.9426
+  },
+  {
+   "frame_id": 19,
+   "camera": 0,
+   "full": 15.7756,
+   "fg": 10.0144
+  },
+  {
+   "frame_id": 21,
+   "camera": 0,
+   "full": 16.5269,
+   "fg": 10.0155
+  },
+  {
+   "frame_id": 23,
+   "camera": 0,
+   "full": 13.4195,
+   "fg": 11.0629
+  },
+  {
+   "frame_id": 25,
+   "camera": 0,
+   "full": 17.1025,
+   "fg": 14.3746
+  },
+  {
+   "frame_id": 27,
+   "camera": 0,
+   "full": 18.1914,
+   "fg": 15.3697
+  },
+  {
+   "frame_id": 29,
+   "camera": 0,
+   "full": 18.8438,
+   "fg": 14.7329
+  },
+  {
+   "frame_id": 31,
+   "camera": 0,
+   "full": 18.1996,
+   "fg": 12.9635
+  },
+  {
+   "frame_id": 33,
+   "camera": 0,
+   "full": 15.4253,
+   "fg": 12.8827
+  },
+  {
+   "frame_id": 35,
+   "camera": 0,
+   "full": 15.1553,
+   "fg": 13.1081
+  },
+  {
+   "frame_id": 37,
+   "camera": 0,
+   "full": 15.2953,
+   "fg": 11.6209
+  },
+  {
+   "frame_id": 39,
+   "camera": 0,
+   "full": 17.1326,
+   "fg": 13.1338
+  },
+  {
+   "frame_id": 41,
+   "camera": 0,
+   "full": 18.6341,
+   "fg": 13.1499
+  },
+  {
+   "frame_id": 43,
+   "camera": 0,
+   "full": 21.3018,
+   "fg": 14.9091
+  },
+  {
+   "frame_id": 45,
+   "camera": 0,
+   "full": 19.1517,
+   "fg": 13.5934
+  },
+  {
+   "frame_id": 47,
+   "camera": 0,
+   "full": 17.509,
+   "fg": 14.5821
+  },
+  {
+   "frame_id": 49,
+   "camera": 0,
+   "full": 13.6059,
+   "fg": 12.9017
+  },
+  {
+   "frame_id": 51,
+   "camera": 0,
+   "full": 11.609,
+   "fg": 10.7265
+  },
+  {
+   "frame_id": 53,
+   "camera": 0,
+   "full": 10.2739,
+   "fg": 10.5049
+  },
+  {
+   "frame_id": 55,
+   "camera": 0,
+   "full": 10.5808,
+   "fg": 10.1084
+  },
+  {
+   "frame_id": 57,
+   "camera": 0,
+   "full": 12.181,
+   "fg": 10.7598
+  },
+  {
+   "frame_id": 59,
+   "camera": 0,
+   "full": 10.7937,
+   "fg": 10.1584
+  }
+ ]
+}

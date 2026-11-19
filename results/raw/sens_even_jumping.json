@@ -1,0 +1,13 @@
+{
+ "bg.params.means": 12.952,
+ "bg.params.scales": 0.4,
+ "bg.params.colors": 0.611,
+ "bg.params.quats": 0.0,
+ "bg.params.opacities": 0.05,
+ "fg.params.motion_coefs": 2.868,
+ "fg.params.means": 4.188,
+ "fg.params.scales": 0.058,
+ "fg.params.colors": 0.024,
+ "fg.params.quats": 0.005,
+ "fg.params.opacities": 0.009
+}

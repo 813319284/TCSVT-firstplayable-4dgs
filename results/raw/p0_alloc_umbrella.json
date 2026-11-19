@@ -1,0 +1,110 @@
+{
+ "scene": "umbrella",
+ "budgets": [
+  {
+   "budget_MB": 4.6,
+   "bytes": 4578034,
+   "eval_full": 21.288,
+   "eval_fg": 19.917,
+   "bits": {
+    "fg.means": 12,
+    "fg.scales": 12,
+    "fg.colors": 8,
+    "fg.quats": 12,
+    "fg.opacities": 4,
+    "fg.motion_coefs": 6,
+    "bg.means": 12,
+    "bg.scales": 8,
+    "bg.colors": 8,
+    "bg.quats": 4,
+    "bg.opacities": 8
+   }
+  },
+  {
+   "budget_MB": 5.9,
+   "bytes": 5845402,
+   "eval_full": 21.447,
+   "eval_fg": 20.044,
+   "bits": {
+    "fg.means": 16,
+    "fg.scales": 12,
+    "fg.colors": 8,
+    "fg.quats": 12,
+    "fg.opacities": 4,
+    "fg.motion_coefs": 8,
+    "bg.means": 16,
+    "bg.scales": 12,
+    "bg.colors": 8,
+    "bg.quats": 8,
+    "bg.opacities": 6
+   }
+  },
+  {
+   "budget_MB": 7.6,
+   "bytes": 7338663,
+   "eval_full": 21.46,
+   "eval_fg": 20.057,
+   "bits": {
+    "fg.means": 16,
+    "fg.scales": 16,
+    "fg.colors": 8,
+    "fg.quats": 16,
+    "fg.opacities": 4,
+    "fg.motion_coefs": 12,
+    "bg.means": 16,
+    "bg.scales": 16,
+    "bg.colors": 8,
+    "bg.quats": 8,
+    "bg.opacities": 6
+   }
+  }
+ ],
+ "fixed_bytes": 8640,
+ "calib_ids": [
+  0,
+  2,
+  4,
+  6,
+  8,
+  10,
+  12,
+  14,
+  16,
+  18,
+  20,
+  22
+ ],
+ "eval_ids": [
+  1,
+  3,
+  5,
+  7,
+  9,
+  11,
+  13,
+  15,
+  17,
+  19,
+  181,
+  183,
+  185,
+  187,
+  189,
+  191,
+  193,
+  195,
+  197,
+  199,
+  361,
+  363,
+  365,
+  367,
+  369,
+  371,
+  373,
+  375,
+  377,
+  379
+ ],
+ "search": "hill climb, single-step moves, started from base layer and from the stream state at that budget (locally optimised)"
+}

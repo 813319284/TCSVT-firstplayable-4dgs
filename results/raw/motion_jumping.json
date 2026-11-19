@@ -1,0 +1,10 @@
+{
+ "scene": "jumping",
+ "camera": 1,
+ "n_frames": 7,
+ "prefix_MB": 4.24,
+ "pearson_prefix": 0.4082,
+ "spearman_prefix": 0.3318,
+ "pearson_ref": 0.3806,
+ "spearman_ref": 0.3313
+}

@@ -1,0 +1,10 @@
+{
+ "scene": "sriracha",
+ "camera": 0,
+ "n_frames": 7,
+ "prefix_MB": 2.03,
+ "pearson_prefix": 0.8741,
+ "spearman_prefix": 0.751,
+ "pearson_ref": 0.9436,
+ "spearman_ref": 0.8686
+}

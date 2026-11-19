@@ -1,0 +1,4 @@
+scene,same_cam_MB,cross_cam_MB,calib_cam,eval_cam
+truck,3.27,3.27,2,1
+umbrella,3.8,3.8,2,1
+jumping,4.24,4.17,2,1

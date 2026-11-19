@@ -1,0 +1,231 @@
+{
+ "scene": "jumping",
+ "calib": [
+  {
+   "frame_id": 0,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 2,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 4,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 6,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 8,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 10,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 12,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 14,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 16,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 18,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 20,
+   "camera": 1,
+   "source": "id-range inference"
+  },
+  {
+   "frame_id": 22,
+   "camera": 1,
+   "source": "id-range inference"
+  }
+ ],
+ "eval": [
+  {
+   "frame_id": 1,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 3,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 5,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 7,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 9,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 11,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 13,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 15,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 17,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 19,
+   "camera": 1,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 97,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 99,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 101,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 103,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 105,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 107,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 109,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 111,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 113,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 115,
+   "camera": 2,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 193,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 195,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 197,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 199,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 201,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 203,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 205,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 207,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 209,
+   "camera": 3,
+   "source": "per_frame record"
+  },
+  {
+   "frame_id": 211,
+   "camera": 3,
+   "source": "per_frame record"
+  }
+ ],
+ "counts": {
+  "n_calib": 12,
+  "n_eval": 30,
+  "n_eval_cameras_unseen": 20,
+  "cameras_calib": [
+   1
+  ],
+  "cameras_eval": [
+   1,
+   2,
+   3
+  ],
+  "monocular": false
+ }
+}

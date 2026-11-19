@@ -1,0 +1,246 @@
+{
+ "scene": "umbrella",
+ "n_eval": 30,
+ "frames": [
+  {
+   "frame_id": 1,
+   "name": "1_00001",
+   "camera": 1,
+   "covisible_frac": 0.8921,
+   "dynamic_frac": 0.569,
+   "intersection_frac": 0.5414
+  },
+  {
+   "frame_id": 3,
+   "name": "1_00003",
+   "camera": 1,
+   "covisible_frac": 0.892,
+   "dynamic_frac": 0.569,
+   "intersection_frac": 0.541
+  },
+  {
+   "frame_id": 5,
+   "name": "1_00005",
+   "camera": 1,
+   "covisible_frac": 0.8923,
+   "dynamic_frac": 0.5697,
+   "intersection_frac": 0.5418
+  },
+  {
+   "frame_id": 7,
+   "name": "1_00007",
+   "camera": 1,
+   "covisible_frac": 0.892,
+   "dynamic_frac": 0.569,
+   "intersection_frac": 0.5409
+  },
+  {
+   "frame_id": 9,
+   "name": "1_00009",
+   "camera": 1,
+   "covisible_frac": 0.892,
+   "dynamic_frac": 0.5696,
+   "intersection_frac": 0.5416
+  },
+  {
+   "frame_id": 11,
+   "name": "1_00011",
+   "camera": 1,
+   "covisible_frac": 0.8918,
+   "dynamic_frac": 0.5693,
+   "intersection_frac": 0.5414
+  },
+  {
+   "frame_id": 13,
+   "name": "1_00013",
+   "camera": 1,
+   "covisible_frac": 0.8908,
+   "dynamic_frac": 0.5692,
+   "intersection_frac": 0.5413
+  },
+  {
+   "frame_id": 15,
+   "name": "1_00015",
+   "camera": 1,
+   "covisible_frac": 0.8903,
+   "dynamic_frac": 0.5714,
+   "intersection_frac": 0.5427
+  },
+  {
+   "frame_id": 17,
+   "name": "1_00017",
+   "camera": 1,
+   "covisible_frac": 0.8901,
+   "dynamic_frac": 0.5794,
+   "intersection_frac": 0.5499
+  },
+  {
+   "frame_id": 19,
+   "name": "1_00019",
+   "camera": 1,
+   "covisible_frac": 0.889,
+   "dynamic_frac": 0.5846,
+   "intersection_frac": 0.5545
+  },
+  {
+   "frame_id": 181,
+   "name": "2_00001",
+   "camera": 2,
+   "covisible_frac": 0.8774,
+   "dynamic_frac": 0.5654,
+   "intersection_frac": 0.5454
+  },
+  {
+   "frame_id": 183,
+   "name": "2_00003",
+   "camera": 2,
+   "covisible_frac": 0.8773,
+   "dynamic_frac": 0.5659,
+   "intersection_frac": 0.5458
+  },
+  {
+   "frame_id": 185,
+   "name": "2_00005",
+   "camera": 2,
+   "covisible_frac": 0.8775,
+   "dynamic_frac": 0.5663,
+   "intersection_frac": 0.5462
+  },
+  {
+   "frame_id": 187,
+   "name": "2_00007",
+   "camera": 2,
+   "covisible_frac": 0.8775,
+   "dynamic_frac": 0.566,
+   "intersection_frac": 0.546
+  },
+  {
+   "frame_id": 189,
+   "name": "2_00009",
+   "camera": 2,
+   "covisible_frac": 0.8774,
+   "dynamic_frac": 0.5662,
+   "intersection_frac": 0.5461
+  },
+  {
+   "frame_id": 191,
+   "name": "2_00011",
+   "camera": 2,
+   "covisible_frac": 0.8769,
+   "dynamic_frac": 0.5673,
+   "intersection_frac": 0.5469
+  },
+  {
+   "frame_id": 193,
+   "name": "2_00013",
+   "camera": 2,
+   "covisible_frac": 0.8759,
+   "dynamic_frac": 0.5678,
+   "intersection_frac": 0.5469
+  },
+  {
+   "frame_id": 195,
+   "name": "2_00015",
+   "camera": 2,
+   "covisible_frac": 0.8756,
+   "dynamic_frac": 0.5677,
+   "intersection_frac": 0.5468
+  },
+  {
+   "frame_id": 197,
+   "name": "2_00017",
+   "camera": 2,
+   "covisible_frac": 0.8756,
+   "dynamic_frac": 0.5749,
+   "intersection_frac": 0.5535
+  },
+  {
+   "frame_id": 199,
+   "name": "2_00019",
+   "camera": 2,
+   "covisible_frac": 0.8749,
+   "dynamic_frac": 0.5798,
+   "intersection_frac": 0.5578
+  },
+  {
+   "frame_id": 361,
+   "name": "3_00001",
+   "camera": 3,
+   "covisible_frac": 0.9493,
+   "dynamic_frac": 0.5636,
+   "intersection_frac": 0.5541
+  },
+  {
+   "frame_id": 363,
+   "name": "3_00003",
+   "camera": 3,
+   "covisible_frac": 0.9493,
+   "dynamic_frac": 0.5642,
+   "intersection_frac": 0.5545
+  },
+  {
+   "frame_id": 365,
+   "name": "3_00005",
+   "camera": 3,
+   "covisible_frac": 0.9492,
+   "dynamic_frac": 0.5647,
+   "intersection_frac": 0.555
+  },
+  {
+   "frame_id": 367,
+   "name": "3_00007",
+   "camera": 3,
+   "covisible_frac": 0.9492,
+   "dynamic_frac": 0.5664,
+   "intersection_frac": 0.5564
+  },
+  {
+   "frame_id": 369,
+   "name": "3_00009",
+   "camera": 3,
+   "covisible_frac": 0.9489,
+   "dynamic_frac": 0.5669,
+   "intersection_frac": 0.5568
+  },
+  {
+   "frame_id": 371,
+   "name": "3_00011",
+   "camera": 3,
+   "covisible_frac": 0.9484,
+   "dynamic_frac": 0.566,
+   "intersection_frac": 0.5557
+  },
+  {
+   "frame_id": 373,
+   "name": "3_00013",
+   "camera": 3,
+   "covisible_frac": 0.9468,
+   "dynamic_frac": 0.5667,
+   "intersection_frac": 0.5553
+  },
+  {
+   "frame_id": 375,
+   "name": "3_00015",
+   "camera": 3,
+   "covisible_frac": 0.9464,
+   "dynamic_frac": 0.5691,
+   "intersection_frac": 0.5574
+  },
+  {
+   "frame_id": 377,
+   "name": "3_00017",
+   "camera": 3,
+   "covisible_frac": 0.9458,
+   "dynamic_frac": 0.5745,
+   "intersection_frac": 0.5618
+  },
+  {
+   "frame_id": 379,
+   "name": "3_00019",
+   "camera": 3,
+   "covisible_frac": 0.9446,
+   "dynamic_frac": 0.5778,
+   "intersection_frac": 0.5638
+  }
+ ]
+}
