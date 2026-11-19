@@ -1,0 +1,7 @@
+{
+ "pages": 12,
+ "words": 7528,
+ "method": "pdftotext (default mode) | python split(); wc -w 少 4 词（换页符），不要混用",
+ "pdftotext": "0.86.1",
+ "generated_at": "2026-11-19"
+}
